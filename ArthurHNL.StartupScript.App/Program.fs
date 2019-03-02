@@ -1,6 +1,4 @@
-﻿open System
-open System.IO
-open ArthurHNL.StartupScript.Lib.ClearFolders
+﻿open ArthurHNL.StartupScript.Lib.ClearFolders
 
 [<EntryPoint>]
 let main argv =
