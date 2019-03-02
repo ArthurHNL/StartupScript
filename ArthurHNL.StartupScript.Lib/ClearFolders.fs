@@ -1,4 +1,5 @@
-﻿namespace ArthurHNL.StartupScript.Lib
+﻿
+namespace ArthurHNL.StartupScript.Lib
 
 open System.IO
 
