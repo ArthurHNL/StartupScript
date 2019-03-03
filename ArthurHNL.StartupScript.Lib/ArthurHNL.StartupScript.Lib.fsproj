@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="LaunchPrograms.fs" />
     <Compile Include="ClearFolders.fs" />
   </ItemGroup>
 
