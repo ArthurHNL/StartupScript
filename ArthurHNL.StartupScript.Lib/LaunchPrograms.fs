@@ -14,4 +14,4 @@ module LaunchPrograms =
         | head :: tail ->
             launchProgram head
             launchPrograms tail
-        | [] -> ignore
+        | [] -> ()

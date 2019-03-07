@@ -9,4 +9,8 @@
     <Compile Include="ClearFolders.fs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="SQLProvider" Version="1.1.59" />
+  </ItemGroup>
+
 </Project>
